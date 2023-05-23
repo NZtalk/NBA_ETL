@@ -1,0 +1,366 @@
+match_id,date,home_team,visitor_team,home_team_score,visitor_team_score,ast,blocks,defensive_rebounds,three_point_pct,field_goal_pct,free_throw_pct,min,oreb,pf,player,player_id,team_id,reb,stl,turnover
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,1,1,0.0,33.3,0.0,12:29,5,3,Isaiah Hicks,209,13,6,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,1,3,28.6,23.1,0.0,26:30,2,3,Brandon Boston Jr.,17896022,13,5,2,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,0,1,0.0,0.0,0.0,13:33,1,2,Jason Preston,17896042,13,2,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,6,0,2,12.5,21.4,100.0,32:01,5,5,Keon Johnson,17896041,25,7,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,5,10,0.0,55.6,50.0,24:34,3,1,Daniel Oturu,3547263,28,13,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,2,7,0.0,12.5,50.0,23:32,0,2,Amir Coffey,666511,13,7,0,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,1,8,22.2,20.0,83.3,31:27,2,0,Jay Scrubb,3547280,22,10,1,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,5:28,0,0,Asante Gist,18042321,30,0,1,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,5:28,0,0,Asante Gist,18041884,30,0,1,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Isaiah Todd,17895967,30,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,1,1,0.0,0.0,0.0,4:21,0,0,Jaime Echenique,17895725,30,1,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,1,0.0,50.0,0.0,5:28,2,0,Austin Hollins,17895727,30,3,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,1,6,0.0,50.0,0.0,11:23,1,2,Marques Bolden,666453,29,7,1,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,1,5,0.0,0.0,0.0,11:01,0,0,Xavier Rathan-Mayes,18039569,30,5,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,1,3,0.0,33.3,100.0,23:35,1,0,Aubrey Dawkins,17895838,30,4,2,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,4,1,2,50.0,55.6,100.0,23:21,0,6,Mason Jones,3547291,14,2,1,5
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,0,5,0.0,23.1,100.0,21:38,3,2,Jordan Goodwin,17895726,30,8,2,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,0,1,75.0,75.0,100.0,25:00,0,3,Caleb Homesley,12044014,30,1,0,4
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,4,0.0,33.3,66.7,22:07,3,1,Jay Huff,17896103,30,7,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,3,0.0,33.3,50.0,20:31,1,1,Dewan Hernandez,666630,30,4,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,2,40.0,33.3,0.0,26:07,0,1,Corey Kispert,17896045,30,2,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,DJ Steward,17553996,26,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,1:22,0,0,Princepal Singh,17553980,26,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,2,0.0,0.0,0.0,4:21,1,1,Johnathan Williams,479,26,3,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,3,50.0,50.0,0.0,17:38,0,1,Robert Woodard II,3547288,27,3,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,1,0.0,28.6,0.0,13:13,0,1,Jordan Schakel,17554006,30,1,2,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,0,0,50.0,66.7,100.0,13:49,0,1,Matt Coleman,17553944,26,0,3,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,1,60.0,71.4,0.0,13:49,0,2,Ade Murkey,17553986,26,1,2,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,1,7,0.0,0.0,0.0,14:12,3,2,Emanuel Terry,5279,24,10,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,4,0,2,66.7,62.5,0.0,21:50,0,2,Davion Mitchell,17553994,26,2,0,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,2,33.3,62.5,66.7,22:26,0,0,Jahmi'us Ramsey,3547262,26,2,1,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,1,5,0.0,50.0,66.7,21:27,1,3,Neemias Queta,17553967,26,6,1,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,4,1,7,40.0,33.3,100.0,21:00,0,1,Chimezie Metu,314,26,7,0,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,0,2,66.7,46.2,0.0,21:50,2,3,Louis King,666698,23,4,2,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Matt Coleman III,17896105,26,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,1,0.0,0.0,0.0,4:21,0,0,Alex Antetokounmpo,17553943,26,1,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,4:21,0,0,Damien Jefferson,17553945,26,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,4:21,0,2,Marcus Graves,17553971,26,0,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,0,2,0.0,42.9,0.0,15:30,0,4,Marcus Foster,17895747,11,2,1,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,0,5,60.0,60.0,0.0,23:38,3,3,Anthony Lamb,7155648,10,8,2,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,4,0,2,60.0,37.5,50.0,24:56,1,2,Khyri Thomas,441,11,3,0,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,6:32,0,0,Spencer Littleson,17895734,9,0,1,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,1,0.0,33.3,0.0,7:05,1,0,Jamorko Pickett,17895735,9,2,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,2,0.0,16.7,100.0,13:15,0,1,Deividas Sirvydis,666899,9,2,1,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,1,50.0,83.3,100.0,16:10,2,3,Luka Garza,17896056,18,3,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Usman Garuba,17896070,11,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Armoni Brooks,9051997,28,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,1,0.0,0.0,0.0,1:49,0,0,Jalen Tate,17895748,11,1,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,100.0,0.0,1:49,0,1,Trey Phills,17895906,11,0,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,1,50.0,66.7,0.0,6:32,1,0,Matt Hurt,17896050,11,2,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,1,2,0.0,33.3,0.0,14:59,0,0,Justin Anderson,11,12,2,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,0,4,60.0,54.5,90.9,29:54,1,4,Jalen Green,17895966,11,5,1,4
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,4,8,50.0,57.1,66.7,24:49,0,2,Alperen Sengun,17896062,11,8,1,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,4,2,4,50.0,50.0,100.0,29:27,2,2,Kenyon Martin Jr.,3547294,11,6,3,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,7,0,2,25.0,50.0,50.0,26:37,1,2,Josh Christopher,17896023,11,3,1,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Isaiah Stewart,3547267,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Chris Smith,17896085,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,50.0,1:20,0,0,Anthony Tarke,17895736,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,100.0,0.0,4:17,1,2,Balsa Koprivica,18036823,9,1,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,John Petty Jr.,17896054,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Isaiah Livers,17896071,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Grant Jerrett,2107,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,1:20,0,0,Blake Francis,17895733,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,3,50.0,57.1,50.0,23:58,0,5,Saben Lee,3547298,24,3,2,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,2,1,0.0,37.5,0.0,28:21,1,5,Killian Hayes,3547241,9,2,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,1,4,44.4,44.4,0.0,29:07,0,7,Cade Cunningham,17896075,9,4,3,4
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,1,3,0.0,37.5,50.0,24:28,2,4,Sekou Doumbouya,666543,14,5,1,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,3,0.0,75.0,100.0,13:48,3,1,Tyler Cook,666517,5,6,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,4,0,7,16.7,36.4,60.0,30:19,0,3,Saddiq Bey,3547256,1,7,0,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,1,1,0.0,33.3,0.0,12:29,5,3,Isaiah Hicks,209,13,6,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,1,3,28.6,23.1,0.0,26:30,2,3,Brandon Boston Jr.,17896022,13,5,2,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,0,1,0.0,0.0,0.0,13:33,1,2,Jason Preston,17896042,13,2,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,6,0,2,12.5,21.4,100.0,32:01,5,5,Keon Johnson,17896041,25,7,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,5,10,0.0,55.6,50.0,24:34,3,1,Daniel Oturu,3547263,28,13,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,2,7,0.0,12.5,50.0,23:32,0,2,Amir Coffey,666511,13,7,0,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,1,8,22.2,20.0,83.3,31:27,2,0,Jay Scrubb,3547280,22,10,1,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,5:28,0,0,Asante Gist,18042321,30,0,1,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,5:28,0,0,Asante Gist,18041884,30,0,1,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Isaiah Todd,17895967,30,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,1,1,0.0,0.0,0.0,4:21,0,0,Jaime Echenique,17895725,30,1,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,1,0.0,50.0,0.0,5:28,2,0,Austin Hollins,17895727,30,3,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,1,6,0.0,50.0,0.0,11:23,1,2,Marques Bolden,666453,29,7,1,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,1,5,0.0,0.0,0.0,11:01,0,0,Xavier Rathan-Mayes,18039569,30,5,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,1,3,0.0,33.3,100.0,23:35,1,0,Aubrey Dawkins,17895838,30,4,2,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,4,1,2,50.0,55.6,100.0,23:21,0,6,Mason Jones,3547291,14,2,1,5
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,0,5,0.0,23.1,100.0,21:38,3,2,Jordan Goodwin,17895726,30,8,2,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,0,1,75.0,75.0,100.0,25:00,0,3,Caleb Homesley,12044014,30,1,0,4
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,4,0.0,33.3,66.7,22:07,3,1,Jay Huff,17896103,30,7,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,3,0.0,33.3,50.0,20:31,1,1,Dewan Hernandez,666630,30,4,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,2,40.0,33.3,0.0,26:07,0,1,Corey Kispert,17896045,30,2,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,DJ Steward,17553996,26,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,1:22,0,0,Princepal Singh,17553980,26,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,2,0.0,0.0,0.0,4:21,1,1,Johnathan Williams,479,26,3,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,3,50.0,50.0,0.0,17:38,0,1,Robert Woodard II,3547288,27,3,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,1,0.0,28.6,0.0,13:13,0,1,Jordan Schakel,17554006,30,1,2,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,0,0,50.0,66.7,100.0,13:49,0,1,Matt Coleman,17553944,26,0,3,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,1,60.0,71.4,0.0,13:49,0,2,Ade Murkey,17553986,26,1,2,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,1,7,0.0,0.0,0.0,14:12,3,2,Emanuel Terry,5279,24,10,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,4,0,2,66.7,62.5,0.0,21:50,0,2,Davion Mitchell,17553994,26,2,0,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,2,33.3,62.5,66.7,22:26,0,0,Jahmi'us Ramsey,3547262,26,2,1,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,1,5,0.0,50.0,66.7,21:27,1,3,Neemias Queta,17553967,26,6,1,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,4,1,7,40.0,33.3,100.0,21:00,0,1,Chimezie Metu,314,26,7,0,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,0,2,66.7,46.2,0.0,21:50,2,3,Louis King,666698,23,4,2,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Matt Coleman III,17896105,26,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,1,0.0,0.0,0.0,4:21,0,0,Alex Antetokounmpo,17553943,26,1,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,4:21,0,0,Damien Jefferson,17553945,26,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,4:21,0,2,Marcus Graves,17553971,26,0,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,0,2,0.0,42.9,0.0,15:30,0,4,Marcus Foster,17895747,11,2,1,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,0,5,60.0,60.0,0.0,23:38,3,3,Anthony Lamb,7155648,10,8,2,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,4,0,2,60.0,37.5,50.0,24:56,1,2,Khyri Thomas,441,11,3,0,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,6:32,0,0,Spencer Littleson,17895734,9,0,1,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,1,0.0,33.3,0.0,7:05,1,0,Jamorko Pickett,17895735,9,2,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,2,0.0,16.7,100.0,13:15,0,1,Deividas Sirvydis,666899,9,2,1,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,1,50.0,83.3,100.0,16:10,2,3,Luka Garza,17896056,18,3,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Usman Garuba,17896070,11,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Armoni Brooks,9051997,28,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,1,0.0,0.0,0.0,1:49,0,0,Jalen Tate,17895748,11,1,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,100.0,0.0,1:49,0,1,Trey Phills,17895906,11,0,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,1,50.0,66.7,0.0,6:32,1,0,Matt Hurt,17896050,11,2,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,1,2,0.0,33.3,0.0,14:59,0,0,Justin Anderson,11,12,2,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,0,4,60.0,54.5,90.9,29:54,1,4,Jalen Green,17895966,11,5,1,4
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,4,8,50.0,57.1,66.7,24:49,0,2,Alperen Sengun,17896062,11,8,1,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,4,2,4,50.0,50.0,100.0,29:27,2,2,Kenyon Martin Jr.,3547294,11,6,3,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,7,0,2,25.0,50.0,50.0,26:37,1,2,Josh Christopher,17896023,11,3,1,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Isaiah Stewart,3547267,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Chris Smith,17896085,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,50.0,1:20,0,0,Anthony Tarke,17895736,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,100.0,0.0,4:17,1,2,Balsa Koprivica,18036823,9,1,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,John Petty Jr.,17896054,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Isaiah Livers,17896071,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Grant Jerrett,2107,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,1:20,0,0,Blake Francis,17895733,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,3,50.0,57.1,50.0,23:58,0,5,Saben Lee,3547298,24,3,2,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,2,1,0.0,37.5,0.0,28:21,1,5,Killian Hayes,3547241,9,2,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,1,4,44.4,44.4,0.0,29:07,0,7,Cade Cunningham,17896075,9,4,3,4
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,1,3,0.0,37.5,50.0,24:28,2,4,Sekou Doumbouya,666543,14,5,1,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,3,0.0,75.0,100.0,13:48,3,1,Tyler Cook,666517,5,6,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,4,0,7,16.7,36.4,60.0,30:19,0,3,Saddiq Bey,3547256,1,7,0,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,1,1,0.0,33.3,0.0,12:29,5,3,Isaiah Hicks,209,13,6,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,1,3,28.6,23.1,0.0,26:30,2,3,Brandon Boston Jr.,17896022,13,5,2,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,0,1,0.0,0.0,0.0,13:33,1,2,Jason Preston,17896042,13,2,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,6,0,2,12.5,21.4,100.0,32:01,5,5,Keon Johnson,17896041,25,7,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,5,10,0.0,55.6,50.0,24:34,3,1,Daniel Oturu,3547263,28,13,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,2,7,0.0,12.5,50.0,23:32,0,2,Amir Coffey,666511,13,7,0,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,1,8,22.2,20.0,83.3,31:27,2,0,Jay Scrubb,3547280,22,10,1,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,5:28,0,0,Asante Gist,18042321,30,0,1,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,5:28,0,0,Asante Gist,18041884,30,0,1,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Isaiah Todd,17895967,30,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,1,1,0.0,0.0,0.0,4:21,0,0,Jaime Echenique,17895725,30,1,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,1,0.0,50.0,0.0,5:28,2,0,Austin Hollins,17895727,30,3,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,1,6,0.0,50.0,0.0,11:23,1,2,Marques Bolden,666453,29,7,1,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,1,5,0.0,0.0,0.0,11:01,0,0,Xavier Rathan-Mayes,18039569,30,5,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,1,3,0.0,33.3,100.0,23:35,1,0,Aubrey Dawkins,17895838,30,4,2,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,4,1,2,50.0,55.6,100.0,23:21,0,6,Mason Jones,3547291,14,2,1,5
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,0,5,0.0,23.1,100.0,21:38,3,2,Jordan Goodwin,17895726,30,8,2,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,0,1,75.0,75.0,100.0,25:00,0,3,Caleb Homesley,12044014,30,1,0,4
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,4,0.0,33.3,66.7,22:07,3,1,Jay Huff,17896103,30,7,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,3,0.0,33.3,50.0,20:31,1,1,Dewan Hernandez,666630,30,4,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,2,40.0,33.3,0.0,26:07,0,1,Corey Kispert,17896045,30,2,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,DJ Steward,17553996,26,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,1:22,0,0,Princepal Singh,17553980,26,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,2,0.0,0.0,0.0,4:21,1,1,Johnathan Williams,479,26,3,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,3,50.0,50.0,0.0,17:38,0,1,Robert Woodard II,3547288,27,3,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,1,0.0,28.6,0.0,13:13,0,1,Jordan Schakel,17554006,30,1,2,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,0,0,50.0,66.7,100.0,13:49,0,1,Matt Coleman,17553944,26,0,3,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,1,60.0,71.4,0.0,13:49,0,2,Ade Murkey,17553986,26,1,2,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,1,7,0.0,0.0,0.0,14:12,3,2,Emanuel Terry,5279,24,10,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,4,0,2,66.7,62.5,0.0,21:50,0,2,Davion Mitchell,17553994,26,2,0,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,2,33.3,62.5,66.7,22:26,0,0,Jahmi'us Ramsey,3547262,26,2,1,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,1,5,0.0,50.0,66.7,21:27,1,3,Neemias Queta,17553967,26,6,1,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,4,1,7,40.0,33.3,100.0,21:00,0,1,Chimezie Metu,314,26,7,0,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,0,2,66.7,46.2,0.0,21:50,2,3,Louis King,666698,23,4,2,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Matt Coleman III,17896105,26,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,1,0.0,0.0,0.0,4:21,0,0,Alex Antetokounmpo,17553943,26,1,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,4:21,0,0,Damien Jefferson,17553945,26,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,4:21,0,2,Marcus Graves,17553971,26,0,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,0,2,0.0,42.9,0.0,15:30,0,4,Marcus Foster,17895747,11,2,1,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,0,5,60.0,60.0,0.0,23:38,3,3,Anthony Lamb,7155648,10,8,2,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,4,0,2,60.0,37.5,50.0,24:56,1,2,Khyri Thomas,441,11,3,0,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,6:32,0,0,Spencer Littleson,17895734,9,0,1,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,1,0.0,33.3,0.0,7:05,1,0,Jamorko Pickett,17895735,9,2,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,2,0.0,16.7,100.0,13:15,0,1,Deividas Sirvydis,666899,9,2,1,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,1,50.0,83.3,100.0,16:10,2,3,Luka Garza,17896056,18,3,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Usman Garuba,17896070,11,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Armoni Brooks,9051997,28,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,1,0.0,0.0,0.0,1:49,0,0,Jalen Tate,17895748,11,1,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,100.0,0.0,1:49,0,1,Trey Phills,17895906,11,0,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,1,50.0,66.7,0.0,6:32,1,0,Matt Hurt,17896050,11,2,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,1,2,0.0,33.3,0.0,14:59,0,0,Justin Anderson,11,12,2,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,0,4,60.0,54.5,90.9,29:54,1,4,Jalen Green,17895966,11,5,1,4
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,4,8,50.0,57.1,66.7,24:49,0,2,Alperen Sengun,17896062,11,8,1,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,4,2,4,50.0,50.0,100.0,29:27,2,2,Kenyon Martin Jr.,3547294,11,6,3,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,7,0,2,25.0,50.0,50.0,26:37,1,2,Josh Christopher,17896023,11,3,1,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Isaiah Stewart,3547267,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Chris Smith,17896085,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,50.0,1:20,0,0,Anthony Tarke,17895736,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,100.0,0.0,4:17,1,2,Balsa Koprivica,18036823,9,1,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,John Petty Jr.,17896054,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Isaiah Livers,17896071,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Grant Jerrett,2107,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,1:20,0,0,Blake Francis,17895733,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,3,50.0,57.1,50.0,23:58,0,5,Saben Lee,3547298,24,3,2,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,2,1,0.0,37.5,0.0,28:21,1,5,Killian Hayes,3547241,9,2,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,1,4,44.4,44.4,0.0,29:07,0,7,Cade Cunningham,17896075,9,4,3,4
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,1,3,0.0,37.5,50.0,24:28,2,4,Sekou Doumbouya,666543,14,5,1,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,3,0.0,75.0,100.0,13:48,3,1,Tyler Cook,666517,5,6,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,4,0,7,16.7,36.4,60.0,30:19,0,3,Saddiq Bey,3547256,1,7,0,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,1,1,0.0,33.3,0.0,12:29,5,3,Isaiah Hicks,209,13,6,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,1,3,28.6,23.1,0.0,26:30,2,3,Brandon Boston Jr.,17896022,13,5,2,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,0,1,0.0,0.0,0.0,13:33,1,2,Jason Preston,17896042,13,2,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,6,0,2,12.5,21.4,100.0,32:01,5,5,Keon Johnson,17896041,25,7,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,5,10,0.0,55.6,50.0,24:34,3,1,Daniel Oturu,3547263,28,13,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,2,7,0.0,12.5,50.0,23:32,0,2,Amir Coffey,666511,13,7,0,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,1,8,22.2,20.0,83.3,31:27,2,0,Jay Scrubb,3547280,22,10,1,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,5:28,0,0,Asante Gist,18042321,30,0,1,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,5:28,0,0,Asante Gist,18041884,30,0,1,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Isaiah Todd,17895967,30,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,1,1,0.0,0.0,0.0,4:21,0,0,Jaime Echenique,17895725,30,1,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,1,0.0,50.0,0.0,5:28,2,0,Austin Hollins,17895727,30,3,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,1,6,0.0,50.0,0.0,11:23,1,2,Marques Bolden,666453,29,7,1,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,1,5,0.0,0.0,0.0,11:01,0,0,Xavier Rathan-Mayes,18039569,30,5,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,1,3,0.0,33.3,100.0,23:35,1,0,Aubrey Dawkins,17895838,30,4,2,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,4,1,2,50.0,55.6,100.0,23:21,0,6,Mason Jones,3547291,14,2,1,5
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,0,5,0.0,23.1,100.0,21:38,3,2,Jordan Goodwin,17895726,30,8,2,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,0,1,75.0,75.0,100.0,25:00,0,3,Caleb Homesley,12044014,30,1,0,4
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,4,0.0,33.3,66.7,22:07,3,1,Jay Huff,17896103,30,7,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,3,0.0,33.3,50.0,20:31,1,1,Dewan Hernandez,666630,30,4,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,2,40.0,33.3,0.0,26:07,0,1,Corey Kispert,17896045,30,2,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,DJ Steward,17553996,26,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,1:22,0,0,Princepal Singh,17553980,26,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,2,0.0,0.0,0.0,4:21,1,1,Johnathan Williams,479,26,3,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,3,50.0,50.0,0.0,17:38,0,1,Robert Woodard II,3547288,27,3,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,1,0.0,28.6,0.0,13:13,0,1,Jordan Schakel,17554006,30,1,2,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,0,0,50.0,66.7,100.0,13:49,0,1,Matt Coleman,17553944,26,0,3,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,1,60.0,71.4,0.0,13:49,0,2,Ade Murkey,17553986,26,1,2,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,1,7,0.0,0.0,0.0,14:12,3,2,Emanuel Terry,5279,24,10,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,4,0,2,66.7,62.5,0.0,21:50,0,2,Davion Mitchell,17553994,26,2,0,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,2,33.3,62.5,66.7,22:26,0,0,Jahmi'us Ramsey,3547262,26,2,1,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,1,5,0.0,50.0,66.7,21:27,1,3,Neemias Queta,17553967,26,6,1,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,4,1,7,40.0,33.3,100.0,21:00,0,1,Chimezie Metu,314,26,7,0,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,0,2,66.7,46.2,0.0,21:50,2,3,Louis King,666698,23,4,2,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Matt Coleman III,17896105,26,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,1,0.0,0.0,0.0,4:21,0,0,Alex Antetokounmpo,17553943,26,1,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,4:21,0,0,Damien Jefferson,17553945,26,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,4:21,0,2,Marcus Graves,17553971,26,0,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,0,2,0.0,42.9,0.0,15:30,0,4,Marcus Foster,17895747,11,2,1,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,0,5,60.0,60.0,0.0,23:38,3,3,Anthony Lamb,7155648,10,8,2,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,4,0,2,60.0,37.5,50.0,24:56,1,2,Khyri Thomas,441,11,3,0,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,6:32,0,0,Spencer Littleson,17895734,9,0,1,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,1,0.0,33.3,0.0,7:05,1,0,Jamorko Pickett,17895735,9,2,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,2,0.0,16.7,100.0,13:15,0,1,Deividas Sirvydis,666899,9,2,1,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,1,50.0,83.3,100.0,16:10,2,3,Luka Garza,17896056,18,3,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Usman Garuba,17896070,11,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Armoni Brooks,9051997,28,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,1,0.0,0.0,0.0,1:49,0,0,Jalen Tate,17895748,11,1,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,100.0,0.0,1:49,0,1,Trey Phills,17895906,11,0,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,1,50.0,66.7,0.0,6:32,1,0,Matt Hurt,17896050,11,2,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,1,2,0.0,33.3,0.0,14:59,0,0,Justin Anderson,11,12,2,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,0,4,60.0,54.5,90.9,29:54,1,4,Jalen Green,17895966,11,5,1,4
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,4,8,50.0,57.1,66.7,24:49,0,2,Alperen Sengun,17896062,11,8,1,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,4,2,4,50.0,50.0,100.0,29:27,2,2,Kenyon Martin Jr.,3547294,11,6,3,3
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,7,0,2,25.0,50.0,50.0,26:37,1,2,Josh Christopher,17896023,11,3,1,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Isaiah Stewart,3547267,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Chris Smith,17896085,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,50.0,1:20,0,0,Anthony Tarke,17895736,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,100.0,0.0,4:17,1,2,Balsa Koprivica,18036823,9,1,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,John Petty Jr.,17896054,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Isaiah Livers,17896071,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,0:00,0,0,Grant Jerrett,2107,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,0,0,0,0.0,0.0,0.0,1:20,0,0,Blake Francis,17895733,9,0,0,0
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,3,50.0,57.1,50.0,23:58,0,5,Saben Lee,3547298,24,3,2,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,3,2,1,0.0,37.5,0.0,28:21,1,5,Killian Hayes,3547241,9,2,0,2
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,1,4,44.4,44.4,0.0,29:07,0,7,Cade Cunningham,17896075,9,4,3,4
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,2,1,3,0.0,37.5,50.0,24:28,2,4,Sekou Doumbouya,666543,14,5,1,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,1,0,3,0.0,75.0,100.0,13:48,3,1,Tyler Cook,666517,5,6,0,1
+455105,2021-08-10,Portland Trail Blazers,LA Clippers,86,66,4,0,7,16.7,36.4,60.0,30:19,0,3,Saddiq Bey,3547256,1,7,0,3
+473365,2021-10-04,LA Clippers,Denver Nuggets,103,102,,,,,,,,,,,,,,,
+473422,2021-10-21,Golden State Warriors,LA Clippers,115,113,,,,,,,,,,,,,,,
+473435,2021-10-23,LA Clippers,Memphis Grizzlies,114,120,,,,,,,,,,,,,,,
+473579,2021-11-11,LA Clippers,Miami Heat,112,109,,,,,,,,,,,,,,,
+473645,2021-11-19,New Orleans Pelicans,LA Clippers,94,81,,,,,,,,,,,,,,,
+473735,2021-12-01,LA Clippers,Sacramento Kings,115,124,,,,,,,,,,,,,,,
+473770,2021-12-06,Portland Trail Blazers,LA Clippers,90,102,,,,,,,,,,,,,,,
+473827,2021-12-15,Utah Jazz,LA Clippers,124,103,,,,,,,,,,,,,,,
+473480,2021-10-29,Portland Trail Blazers,LA Clippers,111,92,,,,,,,,,,,,,,,
+473741,2021-12-03,Los Angeles Lakers,LA Clippers,115,119,,,,,,,,,,,,,,,
+473471,2021-10-27,LA Clippers,Cleveland Cavaliers,79,92,,,,,,,,,,,,,,,
+473944,2021-12-31,Toronto Raptors,LA Clippers,116,108,,,,,,,,,,,,,,,
+473600,2021-11-14,LA Clippers,Chicago Bulls,90,100,,,,,,,,,,,,,,,
+473786,2021-12-08,LA Clippers,Boston Celtics,114,111,,,,,,,,,,,,,,,
+473813,2021-12-13,LA Clippers,Phoenix Suns,111,95,,,,,,,,,,,,,,,
+473969,2022-01-03,LA Clippers,Minnesota Timberwolves,104,122,,,,,,,,,,,,,,,
+474020,2022-01-11,LA Clippers,Denver Nuggets,87,85,,,,,,,,,,,,,,,
+473522,2021-11-03,Minnesota Timberwolves,LA Clippers,115,126,,,,,,,,,,,,,,,
+473457,2021-10-25,LA Clippers,Portland Trail Blazers,116,86,,,,,,,,,,,,,,,
+473537,2021-11-05,Minnesota Timberwolves,LA Clippers,84,104,,,,,,,,,,,,,,,
+473551,2021-11-07,LA Clippers,Charlotte Hornets,120,106,,,,,,,,,,,,,,,
+461294,2021-08-13,LA Clippers,Los Angeles Lakers,84,86,,,,,,,,,,,,,,,
+473565,2021-11-09,LA Clippers,Portland Trail Blazers,117,109,,,,,,,,,,,,,,,
+473636,2021-11-18,Memphis Grizzlies,LA Clippers,120,108,,,,,,,,,,,,,,,
+474108,2022-01-23,New York Knicks,LA Clippers,110,102,,,,,,,,,,,,,,,
+474125,2022-01-25,Washington Wizards,LA Clippers,115,116,,,,,,,,,,,,,,,
+473595,2021-11-13,LA Clippers,Minnesota Timberwolves,129,102,,,,,,,,,,,,,,,
+473852,2021-12-18,Oklahoma City Thunder,LA Clippers,104,103,,,,,,,,,,,,,,,
+474375,2022-03-06,LA Clippers,New York Knicks,93,116,,,,,,,,,,,,,,,
+474408,2022-03-11,Atlanta Hawks,LA Clippers,112,106,,,,,,,,,,,,,,,
+474400,2022-03-09,LA Clippers,Washington Wizards,115,109,,,,,,,,,,,,,,,
+474452,2022-03-16,LA Clippers,Toronto Raptors,100,103,,,,,,,,,,,,,,,
+473510,2021-11-01,LA Clippers,Oklahoma City Thunder,99,94,,,,,,,,,,,,,,,
+473912,2021-12-27,LA Clippers,Brooklyn Nets,108,124,,,,,,,,,,,,,,,
+473999,2022-01-08,LA Clippers,Memphis Grizzlies,108,123,,,,,,,,,,,,,,,
+474058,2022-01-15,San Antonio Spurs,LA Clippers,101,94,,,,,,,,,,,,,,,
+474216,2022-02-06,LA Clippers,Milwaukee Bucks,113,137,,,,,,,,,,,,,,,
+474312,2022-02-25,Los Angeles Lakers,LA Clippers,102,105,,,,,,,,,,,,,,,
+474543,2022-03-29,LA Clippers,Utah Jazz,121,115,,,,,,,,,,,,,,,
+473658,2021-11-21,LA Clippers,Dallas Mavericks,97,91,,,,,,,,,,,,,,,
+473800,2021-12-11,LA Clippers,Orlando Magic,106,104,,,,,,,,,,,,,,,
+473619,2021-11-16,LA Clippers,San Antonio Spurs,106,92,,,,,,,,,,,,,,,
+474168,2022-01-31,Indiana Pacers,LA Clippers,122,116,,,,,,,,,,,,,,,
+473709,2021-11-28,LA Clippers,Golden State Warriors,90,105,,,,,,,,,,,,,,,
+473688,2021-11-26,LA Clippers,Detroit Pistons,107,96,,,,,,,,,,,,,,,
+473721,2021-11-29,LA Clippers,New Orleans Pelicans,104,123,,,,,,,,,,,,,,,
+473673,2021-11-23,LA Clippers,Dallas Mavericks,104,112,,,,,,,,,,,,,,,
+474146,2022-01-28,Miami Heat,LA Clippers,121,114,,,,,,,,,,,,,,,
+474353,2022-03-03,LA Clippers,Los Angeles Lakers,132,111,,,,,,,,,,,,,,,
+473907,2021-12-26,LA Clippers,Denver Nuggets,100,103,,,,,,,,,,,,,,,
+474095,2022-01-21,Philadelphia 76ers,LA Clippers,101,102,,,,,,,,,,,,,,,
+474133,2022-01-26,Orlando Magic,LA Clippers,102,111,,,,,,,,,,,,,,,
+474162,2022-01-30,Charlotte Hornets,LA Clippers,90,115,,,,,,,,,,,,,,,
+474226,2022-02-08,Memphis Grizzlies,LA Clippers,135,109,,,,,,,,,,,,,,,
+474260,2022-02-12,Dallas Mavericks,LA Clippers,97,99,,,,,,,,,,,,,,,
+474281,2022-02-15,Phoenix Suns,LA Clippers,103,96,,,,,,,,,,,,,,,
+473753,2021-12-04,Sacramento Kings,LA Clippers,104,99,,,,,,,,,,,,,,,
+474009,2022-01-09,LA Clippers,Atlanta Hawks,106,93,,,,,,,,,,,,,,,
+474038,2022-01-13,New Orleans Pelicans,LA Clippers,113,89,,,,,,,,,,,,,,,
+474194,2022-02-03,LA Clippers,Los Angeles Lakers,111,110,,,,,,,,,,,,,,,
+473883,2021-12-22,Sacramento Kings,LA Clippers,89,105,,,,,,,,,,,,,,,
+474086,2022-01-19,Denver Nuggets,LA Clippers,130,128,,,,,,,,,,,,,,,
+474267,2022-02-14,LA Clippers,Golden State Warriors,119,104,,,,,,,,,,,,,,,
+474600,2022-04-06,LA Clippers,Phoenix Suns,113,109,,,,,,,,,,,,,,,
+465591,2021-08-15,LA Clippers,Utah Jazz,94,90,,,,,,,,,,,,,,,
+473869,2021-12-20,LA Clippers,San Antonio Spurs,92,116,,,,,,,,,,,,,,,
+473926,2021-12-29,Boston Celtics,LA Clippers,82,91,,,,,,,,,,,,,,,
+473949,2022-01-01,Brooklyn Nets,LA Clippers,116,120,,,,,,,,,,,,,,,
+474063,2022-01-17,LA Clippers,Indiana Pacers,139,133,,,,,,,,,,,,,,,
+474490,2022-03-22,Denver Nuggets,LA Clippers,127,115,,,,,,,,,,,,,,,
+474335,2022-03-01,Houston Rockets,LA Clippers,100,113,,,,,,,,,,,,,,,
+474513,2022-03-25,LA Clippers,Philadelphia 76ers,97,122,,,,,,,,,,,,,,,
+474557,2022-03-31,Chicago Bulls,LA Clippers,135,130,,,,,,,,,,,,,,,
+474242,2022-02-10,Dallas Mavericks,LA Clippers,112,105,,,,,,,,,,,,,,,
+474296,2022-02-17,LA Clippers,Houston Rockets,142,111,,,,,,,,,,,,,,,
+474325,2022-02-27,Houston Rockets,LA Clippers,98,99,,,,,,,,,,,,,,,
+474425,2022-03-13,Detroit Pistons,LA Clippers,102,106,,,,,,,,,,,,,,,
+474428,2022-03-14,Cleveland Cavaliers,LA Clippers,120,111,,,,,,,,,,,,,,,
+474462,2022-03-18,Utah Jazz,LA Clippers,121,92,,,,,,,,,,,,,,,
+474585,2022-04-03,LA Clippers,New Orleans Pelicans,119,100,,,,,,,,,,,,,,,
+467895,2021-08-16,LA Clippers,Memphis Grizzlies,95,104,,,,,,,,,,,,,,,
+452667,2021-08-09,Milwaukee Bucks,LA Clippers,81,78,,,,,,,,,,,,,,,
+473987,2022-01-06,Phoenix Suns,LA Clippers,106,89,,,,,,,,,,,,,,,
+474630,2022-04-10,LA Clippers,Oklahoma City Thunder,138,88,,,,,,,,,,,,,,,
+830509,2022-04-12,Minnesota Timberwolves,LA Clippers,109,104,,,,,,,,,,,,,,,
+474388,2022-03-08,Golden State Warriors,LA Clippers,112,97,,,,,,,,,,,,,,,
+831661,2022-04-15,LA Clippers,New Orleans Pelicans,101,105,,,,,,,,,,,,,,,
+474623,2022-04-09,LA Clippers,Sacramento Kings,117,98,,,,,,,,,,,,,,,
+474561,2022-04-01,Milwaukee Bucks,LA Clippers,119,153,,,,,,,,,,,,,,,
